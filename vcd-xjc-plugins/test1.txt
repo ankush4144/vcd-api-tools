@@ -1,0 +1,22 @@
+This is for demo
+Test STF command line
+testing - Fail STF  using randomizer or alternate toggle-1
+testing slack3
+testing for one curl3
+Runing STF with zulu 11 image
+run after fixing gobuild
+run after fixing gobuild changeset param
+run after fixing changing branch
+run after changing runner for stf stage
+run after fixing wget for testbed.json
+run after fixing url for testbed.json
+run after adding retry for testbed.json
+run after uncommenting everything for final run
+run after changing branch name
+dry run after changed branch name to sp-main
+run after pulling new sp-main code in cayman repos
+run after updating cloud_repo code for rest-api-schemas to recent commit
+run after commenting rest-api copy command in cayman schemas
+run after fixing the cayman schemas branch
+verifying multiple-pipelines pushed to queue
+
